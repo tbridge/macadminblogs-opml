@@ -5,35 +5,146 @@
 		<title>MacAdminBlogs.opml</title>
 	</head>
 <body>
-	<outline text="Mac Admin Stuff" title="Mac Admin Stuff">
-		<outline text="Travelling Tech Guy" title="Travelling Tech Guy" description="" type="rss" version="RSS" htmlUrl="https://travellingtechguy.eu/" xmlUrl="https://travellingtechguy.eu/feed/"/>
-		<outline text="Managing OS X - Greg Neagle" title="Managing OS X - Greg Neagle" description="" type="rss" version="RSS" htmlUrl="https://managingosx.wordpress.com/" xmlUrl="https://managingosx.wordpress.com/feed/"/>
-		<outline text="Mod Titan - Dr. Emily Kausalik" title="Mod Titan - Dr. Emily Kausalik" description="" type="rss" version="RSS" htmlUrl="https://www.modtitan.com/" xmlUrl="https://www.modtitan.com/feeds/posts/default?alt=rss"/>
-		<outline text="Cannonball - Tom Bridge" title="Cannonball - Tom Bridge" description="" type="rss" version="RSS" htmlUrl="https://tombridge.com/" xmlUrl="https://tombridge.com/feed/"/>
-		<outline text="Daz Wallace - Darren Wallace" title="Daz Wallace - Darren Wallace" description="" type="rss" version="RSS" htmlUrl="https://dazwallace.wordpress.com/" xmlUrl="https://dazwallace.wordpress.com/feed"/>
-		<outline text="Objective-See's Blog" title="Objective-See's Blog" description="" type="rss" version="RSS" htmlUrl="https://www.objective-see.com/" xmlUrl="https://objective-see.com/rss.xml"/>
+	<outline text="News - Apple Developer" title="News - Apple Developer" description="" type="rss" version="RSS" htmlUrl="https://developer.apple.com/news/" xmlUrl="http://developer.apple.com/news/rss/news.rss"/>
+	<outline text="NL" title="NL">
+		<outline text="iCulture.nl: Apple-nieuws met een bite!" title="iCulture.nl: Apple-nieuws met een bite!" description="" type="rss" version="RSS" htmlUrl="http://www.iculture.nl/" xmlUrl="https://www.iculture.nl/feed/"/>
+		<outline text="One More Thing" title="One More Thing" description="" type="rss" version="RSS" htmlUrl="https://www.onemorething.nl/" xmlUrl="https://www.onemorething.nl/feed/"/>
+	</outline>
+	<outline text="MacAdmins" title="MacAdmins"/>
+	<outline text="Mac Admin Meetups" title="Mac Admin Meetups">
+		<outline text="London Apple Admins" title="London Apple Admins" description="" type="rss" version="RSS" htmlUrl="https://londonappleadmins.org.uk/" xmlUrl="https://londonappleadmins.org.uk/feed.xml"/>
+		<outline text="Mac Admins Podcast" title="Mac Admins Podcast" description="" type="rss" version="RSS" htmlUrl="https://podcast.macadmins.org/" xmlUrl="https://podcast.macadmins.org/feed/"/>
+		<outline text="Marriott Library - Apple ITS | August 2019 – MacAdmins Meeting" title="Marriott Library - Apple ITS | August 2019 – MacAdmins Meeting" description="" type="rss" version="RSS" htmlUrl="https://apple.lib.utah.edu/" xmlUrl="https://apple.lib.utah.edu/?feed=rss2"/>
+		<outline text="Dallas Apple Admins" title="Dallas Apple Admins" description="" type="rss" version="RSS" htmlUrl="http://dallasappleadmins.org/" xmlUrl="http://dallasappleadmins.org/feed"/>
+	</outline>
+	<outline text="Mac Corporate" title="Mac Corporate">
+		<outline text="HCS - White Papers" title="HCS - White Papers" description="" type="rss" version="RSS" htmlUrl="https://hcsonline.com/support/white-papers" xmlUrl="https://hcsonline.com/support/white-papers?format=feed&amp;type=rss"/>
+		<outline text="SimpleMDM" title="SimpleMDM" description="" type="rss" version="RSS" htmlUrl="https://simplemdm.com/" xmlUrl="https://simplemdm.com/feed/"/>
 		<outline text="IT Kit" title="IT Kit" description="" type="rss" version="RSS" htmlUrl="https://itkit.io/" xmlUrl="https://itkit.io/feed/"/>
-		<outline text="Kolide Blog" title="Kolide Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.kolide.com?source=rss----7757924a1bb8---4/" xmlUrl="https://blog.kolide.com/feed"/>
-		<outline text="System Administrator Musings - Joshua D. Miller" title="System Administrator Musings - Joshua D. Miller" description="" type="rss" version="RSS" htmlUrl="https://www.joshua-d-miller.com/" xmlUrl="https://joshua-d-miller.com/feed"/>
-		<outline text="Jazz Ace - Anthony Reimer" title="Jazz Ace - Anthony Reimer" description="" type="rss" version="RSS" htmlUrl="https://maclabs.jazzace.ca/" xmlUrl="https://maclabs.jazzace.ca/feed"/>
-		<outline text="Robin Laurén" title="Robin Laurén" description="" type="rss" version="RSS" htmlUrl="https://robin.lauren.fi/posts/" xmlUrl="https://robin.lauren.fi/posts/index.xml"/>
+		<outline text="Jamf Blog" title="Jamf Blog" description="" type="rss" version="RSS" htmlUrl="https://www.jamf.com/blog/" xmlUrl="https://www.jamf.com/blog/rss/"/>
+		<outline text="JumpCloud" title="JumpCloud" description="" type="rss" version="RSS" htmlUrl="https://jumpcloud.com/" xmlUrl="https://jumpcloud.com/feed/"/>
+		<outline text="HCS - Blog" title="HCS - Blog" description="" type="rss" version="RSS" htmlUrl="https://hcsonline.com/support/blog" xmlUrl="https://hcsonline.com/support/blog?format=feed&amp;type=rss"/>
+		<outline text="Apple Newsroom" title="Apple Newsroom" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss"/>
+		<outline text="MicroMDM" title="MicroMDM" description="" type="rss" version="RSS" htmlUrl="https://micromdm.io/" xmlUrl="https://micromdm.io/index.xml"/>
+		<outline text="Karl Gibson – Adobe Installation and Licensing" title="Karl Gibson – Adobe Installation and Licensing" description="" type="rss" version="RSS" htmlUrl="http://blogs.adobe.com/deployment" xmlUrl="http://blogs.adobe.com/oobe/author/karl-gibson/feed"/>
 		<outline text="The Omni Group" title="The Omni Group" description="" type="rss" version="RSS" htmlUrl="https://www.omnigroup.com/" xmlUrl="https://www.omnigroup.com/blog/rss/"/>
 		<outline text="Fleetsmith Blog" title="Fleetsmith Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.fleetsmith.com/" xmlUrl="https://blog.fleetsmith.com/rss/"/>
-		<outline text="Mr. Macintosh" title="Mr. Macintosh" description="" type="rss" version="RSS" htmlUrl="https://mrmacintosh.com/" xmlUrl="https://mrmacintosh.com/feed/"/>
-		<outline text="Mike Solin" title="Mike Solin" description="" type="rss" version="RSS" htmlUrl="https://mikesolin.com/" xmlUrl="https://mikesolin.com/feed/"/>
-		<outline text="Jamf Blog" title="Jamf Blog" description="" type="rss" version="RSS" htmlUrl="https://www.jamf.com/blog/" xmlUrl="https://www.jamf.com/blog/rss/"/>
-		<outline text="mac4n6.com - Sarah Edwards" title="mac4n6.com - Sarah Edwards" description="" type="rss" version="RSS" htmlUrl="http://www.mac4n6.com/" xmlUrl="https://www.mac4n6.com/blog?format=RSS"/>
-		<outline text="Mac Mule - Ben Toms" title="Mac Mule - Ben Toms" description="" type="rss" version="RSS" htmlUrl="https://macmule.com/" xmlUrl="https://macmule.com/feed/"/>
-		<outline text="Der Flounder - Rich Trouton" title="Der Flounder - Rich Trouton" description="" type="rss" version="RSS" htmlUrl="https://derflounder.wordpress.com/" xmlUrl="https://derflounder.wordpress.com/feed"/>
-		<outline text="Kevin Cox" title="Kevin Cox" description="" type="rss" version="RSS" htmlUrl="https://www.kevinmcox.com/" xmlUrl="https://www.kevinmcox.com/feed/"/>
-		<outline text="HCS Technology Group - Latest blog entries" title="HCS Technology Group - Latest blog entries" description="" type="rss" version="RSS" htmlUrl="https://hcsonline.com/support/blog" xmlUrl="https://hcsonline.com/support/blog?format=feed&amp;type=rss"/>
-		<outline text="Scripting OS X" title="Scripting OS X" description="" type="rss" version="RSS" htmlUrl="https://scriptingosx.com/" xmlUrl="https://scriptingosx.com/feed/"/>
+		<outline text="Kolide - Medium" title="Kolide - Medium" description="" type="rss" version="RSS" htmlUrl="https://blog.kolide.com?source=rss----7757924a1bb8---4/" xmlUrl="https://blog.kolide.com/feed"/>
+		<outline text="Zentral on Medium" title="Zentral on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@zentral?source=rss-aea2f04f0fef------2" xmlUrl="https://medium.com/feed/@zentral"/>
+	</outline>
+	<outline text="Mac Admin Stuff" title="Mac Admin Stuff">
+		<outline text="MOD TITAN" title="MOD TITAN" description="" type="rss" version="RSS" htmlUrl="http://www.modtitan.com/search/label/mac%20admin" xmlUrl="http://www.modtitan.com/feeds/posts/default/-/mac%20admin/"/>
+		<outline text="Apple Newsroom" title="Apple Newsroom" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.apple.com/newsroom/rss-feed.rss"/>
+		<outline text="the bits" title="the bits" description="" type="rss" version="RSS" htmlUrl="https://dreness.com/blog" xmlUrl="https://dreness.com/blog/feed"/>
+		<outline text="Objective-See's Blog" title="Objective-See's Blog" description="" type="rss" version="RSS" htmlUrl="https://www.objective-see.com/" xmlUrl="https://objective-see.com/rss.xml"/>
+		<outline text="The Life of Jason Miller - Jason Miller" title="The Life of Jason Miller - Jason Miller" description="" type="rss" version="RSS" htmlUrl="https://www.jasonkmiller.com/the-life-of-jason-miller/" xmlUrl="http://www.jasonkmiller.com/the-life-of-jason-miller/?format=rss"/>
+		<outline text="Stuff about things" title="Stuff about things" description="" type="rss" version="RSS" htmlUrl="https://breardon.home.blog/" xmlUrl="https://breardon.home.blog/feed/"/>
+		<outline text="St. Ignatius College Prep Tech Blog" title="St. Ignatius College Prep Tech Blog" description="" type="rss" version="RSS" htmlUrl="https://technology.siprep.org/" xmlUrl="https://technology.siprep.org/feed"/>
+		<outline text="The Academic IT Tech" title="The Academic IT Tech" description="" type="rss" version="RSS" htmlUrl="https://garrettyamada.com/" xmlUrl="https://garrettyamada.com/rss/"/>
+		<outline text="Pike's Universum" title="Pike's Universum" description="" type="rss" version="RSS" htmlUrl="https://pikeralpha.wordpress.com/" xmlUrl="https://pikeralpha.wordpress.com/feed/"/>
+		<outline text="Pinwheel" title="Pinwheel" description="" type="rss" version="RSS" htmlUrl="http:///" xmlUrl="https://pinwheel.dev/index.xml"/>
+		<outline text="dazwallace" title="dazwallace" description="" type="rss" version="RSS" htmlUrl="https://dazwallace.wordpress.com/" xmlUrl="https://dazwallace.wordpress.com/feed/"/>
+		<outline text="Robin Laurén" title="Robin Laurén" description="" type="rss" version="RSS" htmlUrl="https://robin.lauren.fi/" xmlUrl="https://robin.lauren.fi/index.xml"/>
+		<outline text="Marriott Library - Apple ITS | August 2019 – MacAdmins Meeting" title="Marriott Library - Apple ITS | August 2019 – MacAdmins Meeting" description="" type="rss" version="RSS" htmlUrl="https://apple.lib.utah.edu/" xmlUrl="https://apple.lib.utah.edu/?feed=rss2"/>
 		<outline text="graham gilbert" title="graham gilbert" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://grahamgilbert.com/atom.xml"/>
-		<outline text="Michael Tsai" title="Michael Tsai" description="" type="rss" version="RSS" htmlUrl="https://mjtsai.com/blog" xmlUrl="https://mjtsai.com/blog/feed/"/>
-		<outline text="Mac Admins Podcast" title="Mac Admins Podcast" description="" type="rss" version="RSS" htmlUrl="https://podcast.macadmins.org/" xmlUrl="https://podcast.macadmins.org/feed"/>
+		<outline text="Enterprise Mac" title="Enterprise Mac" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="http://enterprisemac.bruienne.com/atom.xml"/>
+		<outline text="AdamCodega.com" title="AdamCodega.com" description="" type="rss" version="RSS" htmlUrl="http://www.adamcodega.com/" xmlUrl="http://adamcodega.com/feed.xml"/>
+		<outline text="Nathaniel Strauss" title="Nathaniel Strauss" description="" type="rss" version="RSS" htmlUrl="https://nstrauss.info/" xmlUrl="https://nstrauss.info/index.xml"/>
+		<outline text="groob.io" title="groob.io" description="" type="rss" version="RSS" htmlUrl="https://groob.io/" xmlUrl="http://groob.io/index.xml"/>
+		<outline text="Blog – Twocanoes Software" title="Blog – Twocanoes Software" description="" type="rss" version="RSS" htmlUrl="https://twocanoes.com/" xmlUrl="http://blog.twocanoes.com/rss"/>
+		<outline text="Rick Heil" title="Rick Heil" description="" type="rss" version="RSS" htmlUrl="https://rickheil.com/" xmlUrl="https://rickheil.com/feed/"/>
+		<outline text="mac4n6.com" title="mac4n6.com" description="" type="rss" version="RSS" htmlUrl="http://www.mac4n6.com/" xmlUrl="http://www.mac4n6.com/?format=rss"/>
+		<outline text="Macbrained.org" title="Macbrained.org" description="" type="rss" version="RSS" htmlUrl="https://macbrained.org/" xmlUrl="http://macbrained.org/?feed=rss"/>
+		<outline text="Aulin" title="Aulin" description="" type="rss" version="RSS" htmlUrl="http://aulin.co/" xmlUrl="http://aulin.co/feed.xml"/>
+		<outline text="standing on the shoulders of gaints" title="standing on the shoulders of gaints" description="" type="rss" version="RSS" htmlUrl="https://notverypc.github.io/" xmlUrl="https://notverypc.github.io/feed.xml"/>
+		<outline text="Things and Stuff" title="Things and Stuff" description="" type="rss" version="RSS" htmlUrl="https://6fx.eu/" xmlUrl="https://6fx.eu/index.xml"/>
+		<outline text="OS X Dominion: Mastering OS X Management" title="OS X Dominion: Mastering OS X Management" description="" type="rss" version="RSS" htmlUrl="https://osxdominion.wordpress.com/" xmlUrl="https://osxdominion.wordpress.com/feed"/>
+		<outline text="Tech on clburlison" title="Tech on clburlison" description="" type="rss" version="RSS" htmlUrl="https://clburlison.com/categories/tech/" xmlUrl="https://clburlison.com/categories/tech/feed.xml"/>
+		<outline text="MicroMDM" title="MicroMDM" description="" type="rss" version="RSS" htmlUrl="https://micromdm.io/" xmlUrl="https://micromdm.io/index.xml"/>
+		<outline text="Michael Holt" title="Michael Holt" description="" type="rss" version="RSS" htmlUrl="https://mholt.io/" xmlUrl="http://www.mholt.tech/index.xml"/>
+		<outline text="Taco Destroyer" title="Taco Destroyer" description="" type="rss" version="RSS" htmlUrl="https://sheagcraig.github.io/" xmlUrl="https://sheagcraig.github.io/feed.xml"/>
+		<outline text="MagerValp" title="MagerValp" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="http://magervalp.github.io/atom.xml"/>
+		<outline text="n8felton's Quiet Corner of the Internet" title="n8felton's Quiet Corner of the Internet" description="" type="rss" version="RSS" htmlUrl="https://n8felton.wordpress.com/" xmlUrl="https://n8felton.wordpress.com/feed/"/>
+		<outline text="Joshua Miller" title="Joshua Miller" description="" type="rss" version="RSS" htmlUrl="https://www.joshua-d-miller.com/" xmlUrl="https://joshua-d-miller.com/feed.xml"/>
+		<outline text="Travelling Tech Guy" title="Travelling Tech Guy" description="" type="rss" version="RSS" htmlUrl="https://travellingtechguy.eu/" xmlUrl="https://travellingtechguy.eu/feed/"/>
+		<outline text="Ross Derewianko" title="Ross Derewianko" description="" type="rss" version="RSS" htmlUrl="https://www.rderewianko.com/" xmlUrl="http://rderewianko.com/feed"/>
+		<outline text="Jer Because" title="Jer Because" description="" type="rss" version="RSS" htmlUrl="https://jerbecause.wordpress.com/" xmlUrl="https://jerbecause.wordpress.com/feed/"/>
+		<outline text="Kurt Tappe" title="Kurt Tappe" description="" type="rss" version="RSS" htmlUrl="https://kurttappe.com/" xmlUrl="https://kurttappe.com/feed/"/>
+		<outline text="AFP548 – Covering Apple IT" title="AFP548 – Covering Apple IT" description="" type="rss" version="RSS" htmlUrl="https://www.afp548.com/" xmlUrl="http://feeds.feedburner.com/afp548entries"/>
+		<outline text="James' Ubiquitous Blog" title="James' Ubiquitous Blog" description="" type="rss" version="RSS" htmlUrl="https://smithjw.github.io/" xmlUrl="http://smithjw.me/feed"/>
 		<outline text="SimpleMDM" title="SimpleMDM" description="" type="rss" version="RSS" htmlUrl="https://simplemdm.com/" xmlUrl="https://simplemdm.com/feed/"/>
-		<outline text="Krypted.com - Charles Edge" title="Krypted.com - Charles Edge" description="" type="rss" version="RSS" htmlUrl="https://krypted.com/" xmlUrl="https://krypted.com/feed/"/>
-		<outline text="Eclectic Light Company - Howard Oakley" title="Eclectic Light Company - Howard Oakley" description="" type="rss" version="RSS" htmlUrl="https://eclecticlight.co" xmlUrl="https://eclecticlight.co/feed/"/>
+		<outline text="Dan's apple blog" title="Dan's apple blog" description="" type="rss" version="RSS" htmlUrl="https://dansmacblog.wordpress.com/" xmlUrl="https://dansmacblog.wordpress.com/feed"/>
+		<outline text="foigus' Notes" title="foigus' Notes" description="" type="rss" version="RSS" htmlUrl="https://foigus.wordpress.com/" xmlUrl="https://foigus.wordpress.com/?feed=rss"/>
+		<outline text="Fleetsmith Blog" title="Fleetsmith Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.fleetsmith.com/" xmlUrl="https://blog.fleetsmith.com/rss/"/>
+		<outline text="osxbytes" title="osxbytes" description="" type="rss" version="RSS" htmlUrl="https://osxbytes.wordpress.com/" xmlUrl="https://osxbytes.wordpress.com/feed"/>
+		<outline text="krypted" title="krypted" description="" type="rss" version="RSS" htmlUrl="https://krypted.com/" xmlUrl="https://krypted.com/feed/"/>
+		<outline text="London Apple Admins" title="London Apple Admins" description="" type="rss" version="RSS" htmlUrl="https://londonappleadmins.org.uk/" xmlUrl="https://londonappleadmins.org.uk/feed.xml"/>
+		<outline text="The Geeky Gordo" title="The Geeky Gordo" description="" type="rss" version="RSS" htmlUrl="https://geekygordo.com/" xmlUrl="https://geekygordo.com/feed/"/>
+		<outline text="JumpCloud" title="JumpCloud" description="" type="rss" version="RSS" htmlUrl="https://jumpcloud.com/" xmlUrl="https://jumpcloud.com/feed/"/>
+		<outline text="gmarnin" title="gmarnin" description="" type="rss" version="RSS" htmlUrl="https://gmarnin.com/" xmlUrl="http://gmarnin.com/gmarnin.github.io/feed.xml"/>
+		<outline text="MontysMacMusings" title="MontysMacMusings" description="" type="rss" version="RSS" htmlUrl="https://montysmacmusings.wordpress.com/" xmlUrl="https://montysmacmusings.wordpress.com/feed/"/>
+		<outline text="Paul Galow" title="Paul Galow" description="" type="rss" version="RSS" htmlUrl="https://paulgalow.com/" xmlUrl="https://paulgalow.com/rss.xml"/>
+		<outline text="C'est un peu court, Gète." title="C'est un peu court, Gète." description="" type="rss" version="RSS" htmlUrl="https://blog.gete.net/" xmlUrl="https://blog.gete.net/feed"/>
+		<outline text="Brandon Kurtz" title="Brandon Kurtz" description="" type="rss" version="RSS" htmlUrl="https://discentem.github.io/post/" xmlUrl="https://bkurtz.io/post/index.xml"/>
+		<outline text="Dallas Apple Admins" title="Dallas Apple Admins" description="" type="rss" version="RSS" htmlUrl="http://dallasappleadmins.org/" xmlUrl="http://dallasappleadmins.org/feed"/>
+		<outline text="Mac Admins Podcast" title="Mac Admins Podcast" description="" type="rss" version="RSS" htmlUrl="https://podcast.macadmins.org/" xmlUrl="https://podcast.macadmins.org/feed/"/>
+		<outline text="IT Kit" title="IT Kit" description="" type="rss" version="RSS" htmlUrl="https://itkit.io/" xmlUrl="https://itkit.io/feed/"/>
+		<outline text="Tips and Tricks from a Mac Admin" title="Tips and Tricks from a Mac Admin" description="" type="rss" version="RSS" htmlUrl="https://themacwrangler.wordpress.com/" xmlUrl="https://themacwrangler.wordpress.com/feed/"/>
+		<outline text="mike solin's blog" title="mike solin's blog" description="" type="rss" version="RSS" htmlUrl="https://mikesolin.com/" xmlUrl="http://mikesolin.com/feed"/>
+		<outline text="Mr. Macintosh" title="Mr. Macintosh" description="" type="rss" version="RSS" htmlUrl="https://mrmacintosh.com/" xmlUrl="https://mrmacintosh.com/feed/"/>
+		<outline text="Sound Mac Guy" title="Sound Mac Guy" description="" type="rss" version="RSS" htmlUrl="https://soundmacguy.wordpress.com/" xmlUrl="https://soundmacguy.wordpress.com/feed"/>
+		<outline text="Cannonball" title="Cannonball" description="" type="rss" version="RSS" htmlUrl="https://tombridge.com/" xmlUrl="https://tombridge.com/feed/"/>
+		<outline text="Mac Lovin'" title="Mac Lovin'" description="" type="rss" version="RSS" htmlUrl="https://maclovin.org/" xmlUrl="http://maclovin.org/?format=rss"/>
+		<outline text="System Administrator Musings" title="System Administrator Musings" description="" type="rss" version="RSS" htmlUrl="https://www.joshua-d-miller.com/" xmlUrl="https://joshua-d-miller.com/feed"/>
+		<outline text="HCS - White Papers" title="HCS - White Papers" description="" type="rss" version="RSS" htmlUrl="https://hcsonline.com/support/white-papers" xmlUrl="https://hcsonline.com/support/white-papers?format=feed&amp;type=rss"/>
+		<outline text="Graham R Pugh" title="Graham R Pugh" description="" type="rss" version="RSS" htmlUrl="http://grahampugh.github.io/" xmlUrl="http://grahampugh.github.io/feed.xml"/>
+		<outline text="Managing OS X" title="Managing OS X" description="" type="rss" version="RSS" htmlUrl="https://managingosx.wordpress.com/" xmlUrl="https://managingosx.wordpress.com/feed/"/>
+		<outline text="macmule" title="macmule" description="" type="rss" version="RSS" htmlUrl="https://macmule.com/" xmlUrl="https://macmule.com/feed/"/>
+		<outline text="DAM SAN" title="DAM SAN" description="" type="rss" version="RSS" htmlUrl="https://macvfx.blog/" xmlUrl="https://macvfx.blog/feed/"/>
+		<outline text="Scripting OS X" title="Scripting OS X" description="" type="rss" version="RSS" htmlUrl="https://scriptingosx.com/" xmlUrl="https://scriptingosx.com/feed/"/>
+		<outline text="Kevin M. Cox" title="Kevin M. Cox" description="" type="rss" version="RSS" htmlUrl="https://www.kevinmcox.com/" xmlUrl="https://www.kevinmcox.com/feed/"/>
+		<outline text="Mac Operations" title="Mac Operations" description="" type="rss" version="RSS" htmlUrl="https://macops.ca/" xmlUrl="https://macops.ca/index.xml"/>
+		<outline text="Quo Vadimus" title="Quo Vadimus" description="" type="rss" version="RSS" htmlUrl="http://thequovadimus.com/" xmlUrl="http://thequovadimus.com/feed"/>
+		<outline text="MacBlog" title="MacBlog" description="" type="rss" version="RSS" htmlUrl="https://www.macblog.org/index.xml" xmlUrl="https://www.macblog.org/index.xml"/>
+		<outline text="Zentral on Medium" title="Zentral on Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/@zentral?source=rss-aea2f04f0fef------2" xmlUrl="https://medium.com/feed/@zentral"/>
+		<outline text="bryson3Gps" title="bryson3Gps" description="" type="rss" version="RSS" htmlUrl="https://bryson3gps.wordpress.com/" xmlUrl="https://bryson3gps.wordpress.com/feed/"/>
+		<outline text="HCS - Blog" title="HCS - Blog" description="" type="rss" version="RSS" htmlUrl="https://hcsonline.com/support/blog" xmlUrl="https://hcsonline.com/support/blog?format=feed&amp;type=rss"/>
+		<outline text="Babo D's Corner" title="Babo D's Corner" description="" type="rss" version="RSS" htmlUrl="https://babodee.wordpress.com/" xmlUrl="https://babodee.wordpress.com/feed/"/>
+		<outline text="Michael Tsai" title="Michael Tsai" description="" type="rss" version="RSS" htmlUrl="https://mjtsai.com/blog" xmlUrl="https://mjtsai.com/blog/feed/"/>
+		<outline text="chris-collins.io" title="chris-collins.io" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://chris-collins.io/atom.xml"/>
+		<outline text="Karl Gibson – Adobe Installation and Licensing" title="Karl Gibson – Adobe Installation and Licensing" description="" type="rss" version="RSS" htmlUrl="http://blogs.adobe.com/deployment" xmlUrl="http://blogs.adobe.com/oobe/author/karl-gibson/feed"/>
+		<outline text="Anthony’s Mac Labs Blog" title="Anthony’s Mac Labs Blog" description="" type="rss" version="RSS" htmlUrl="https://maclabs.jazzace.ca/" xmlUrl="https://maclabs.jazzace.ca/feed.xml"/>
+		<outline text="mikeymikey blogs here" title="mikeymikey blogs here" description="" type="rss" version="RSS" htmlUrl="http://michaellynn.github.io/" xmlUrl="http://michaellynn.github.io/feed.xml"/>
+		<outline text="One More Admin - Erik Gomez" title="One More Admin - Erik Gomez" description="" type="rss" version="RSS" htmlUrl="http://blog.eriknicolasgomez.com/" xmlUrl="http://blog.eriknicolasgomez.com/feed.xml"/>
+		<outline text="The Eclectic Light Company" title="The Eclectic Light Company" description="" type="rss" version="RSS" htmlUrl="https://eclecticlight.co/" xmlUrl="https://eclecticlight.co/feed/"/>
+		<outline text="Der Flounder" title="Der Flounder" description="" type="rss" version="RSS" htmlUrl="https://derflounder.wordpress.com/" xmlUrl="https://derflounder.wordpress.com/feed/"/>
+		<outline text="My Thoughts" title="My Thoughts" description="" type="rss" version="RSS" htmlUrl="https://sneakypockets.wordpress.com/" xmlUrl="https://sneakypockets.wordpress.com/feed/"/>
+		<outline text="SOUNDSNW" title="SOUNDSNW" description="" type="rss" version="RSS" htmlUrl="https://soundsnw.wordpress.com/" xmlUrl="https://soundsnw.wordpress.com/feed/"/>
+		<outline text="Und Immer Wieder Aufstehen - Medium" title="Und Immer Wieder Aufstehen - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.daallgeier.de?source=rss----c67424cda470---4/" xmlUrl="https://medium.daallgeier.de/feed"/>
+		<outline text="Carsten Wolfram" title="Carsten Wolfram" description="" type="rss" version="RSS" htmlUrl="https://carstenwolfram.de/" xmlUrl="http://carstenwolfram.de/feed"/>
+		<outline text="Kitzy" title="Kitzy" description="" type="rss" version="RSS" htmlUrl="https://kitzy.com/" xmlUrl="https://kitzy.com/welcome?format=RSS"/>
+		<outline text="carl ashley" title="carl ashley" description="" type="rss" version="RSS" htmlUrl="https://carlashley.com/" xmlUrl="https://carlashley.com/feed/"/>
+		<outline text="Fraser Speirs" title="Fraser Speirs" description="" type="rss" version="RSS" htmlUrl="https://www.speirs.org/" xmlUrl="https://www.speirs.org/blog?format=RSS"/>
+		<outline text="The Omni Group" title="The Omni Group" description="" type="rss" version="RSS" htmlUrl="https://www.omnigroup.com/" xmlUrl="https://www.omnigroup.com/blog/rss/"/>
+		<outline text="Kolide - Medium" title="Kolide - Medium" description="" type="rss" version="RSS" htmlUrl="https://blog.kolide.com?source=rss----7757924a1bb8---4/" xmlUrl="https://blog.kolide.com/feed"/>
+		<outline text="Jamf Blog" title="Jamf Blog" description="" type="rss" version="RSS" htmlUrl="https://www.jamf.com/blog/" xmlUrl="https://www.jamf.com/blog/rss/"/>
+		<outline text="The Macintosh Guy" title="The Macintosh Guy" description="" type="rss" version="RSS" htmlUrl="https://macintoshguy.wordpress.com/" xmlUrl="https://macintoshguy.wordpress.com/feed/"/>
+		<outline text="Bynkiidotcom" title="Bynkiidotcom" description="" type="rss" version="RSS" htmlUrl="https://bynkiidotcom.wordpress.com/" xmlUrl="https://bynkiidotcom.wordpress.com/feed/"/>
+	</outline>
+	<outline text="Default Feeds" title="Default Feeds">
+		<outline text="Becky Hansmeyer" title="Becky Hansmeyer" description="" type="rss" version="RSS" htmlUrl="https://beckyhansmeyer.com/" xmlUrl="https://beckyhansmeyer.com/feed/"/>
+		<outline text="kottke.org" title="kottke.org" description="" type="rss" version="RSS" htmlUrl="http://kottke.org/" xmlUrl="http://feeds.kottke.org/json"/>
+		<outline text="NetNewsWire" title="NetNewsWire" description="" type="rss" version="RSS" htmlUrl="https://nnw.ranchero.com/" xmlUrl="https://nnw.ranchero.com/feed.json"/>
+		<outline text="The Loop" title="The Loop" description="" type="rss" version="RSS" htmlUrl="https://www.loopinsight.com/" xmlUrl="http://www.loopinsight.com/feed/"/>
+		<outline text="furbo.org" title="furbo.org" description="" type="rss" version="RSS" htmlUrl="https://furbo.org/" xmlUrl="https://furbo.org/feed/json/"/>
+		<outline text="Erica Sadun" title="Erica Sadun" description="" type="rss" version="RSS" htmlUrl="https://ericasadun.com/" xmlUrl="https://ericasadun.com/feed/"/>
+		<outline text="The Shape of Everything" title="The Shape of Everything" description="" type="rss" version="RSS" htmlUrl="https://shapeof.com/" xmlUrl="https://shapeof.com/feed.json"/>
+		<outline text="The Omni Group" title="The Omni Group" description="" type="rss" version="RSS" htmlUrl="https://www.omnigroup.com/" xmlUrl="https://www.omnigroup.com/blog/rss/"/>
+		<outline text="Accidentally in Code" title="Accidentally in Code" description="" type="rss" version="RSS" htmlUrl="https://cate.blog/" xmlUrl="https://cate.blog/feed/"/>
+		<outline text="Six Colors" title="Six Colors" description="" type="rss" version="RSS" htmlUrl="https://sixcolors.com/" xmlUrl="https://sixcolors.com/feed.json"/>
+		<outline text="Julia Evans" title="Julia Evans" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://jvns.ca/atom.xml"/>
+		<outline text="Daring Fireball" title="Daring Fireball" description="" type="rss" version="RSS" htmlUrl="https://daringfireball.net/" xmlUrl="https://daringfireball.net/feeds/json"/>
+		<outline text="inessential" title="inessential" description="" type="rss" version="RSS" htmlUrl="https://inessential.com/" xmlUrl="https://inessential.com/feed.json"/>
 	</outline>
 	</body>
 </opml>
