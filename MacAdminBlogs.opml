@@ -111,6 +111,11 @@
 		<outline text="HCS - Blog" title="HCS - Blog" description="" type="rss" version="RSS" htmlUrl="https://hcsonline.com/support/blog" xmlUrl="https://hcsonline.com/support/blog?format=feed&amp;type=rss"/>
 		<outline text="Babo D's Corner" title="Babo D's Corner" description="" type="rss" version="RSS" htmlUrl="https://babodee.wordpress.com/" xmlUrl="https://babodee.wordpress.com/feed/"/>
 		<outline text="Michael Tsai" title="Michael Tsai" description="" type="rss" version="RSS" htmlUrl="https://mjtsai.com/blog" xmlUrl="https://mjtsai.com/blog/feed/"/>
+		<outline text="Mac Admins Podcast" title="Mac Admins Podcast" description="" type="rss" version="RSS" htmlUrl="https://podcast.macadmins.org/" xmlUrl="https://podcast.macadmins.org/feed"/>
+		<outline text="SimpleMDM" title="SimpleMDM" description="" type="rss" version="RSS" htmlUrl="https://simplemdm.com/" xmlUrl="https://simplemdm.com/feed/"/>
+		<outline text="Krypted.com - Charles Edge" title="Krypted.com - Charles Edge" description="" type="rss" version="RSS" htmlUrl="https://krypted.com/" xmlUrl="https://krypted.com/feed/"/>
+		<outline text="Eclectic Light Company - Howard Oakley" title="Eclectic Light Company - Howard Oakley" description="" type="rss" version="RSS" htmlUrl="https://eclecticlight.co" xmlUrl="https://eclecticlight.co/feed/"/>
+    <outline text="Abelionni" title="Abelionni" description="Yoann Gini's french consulting company, publishing tech articles in english" type="rss" version="RSS" htmlUrl="https://www.abelionni.com/en/" xmlUrl="https://www.abelionni.com/en/feed/"/>
 		<outline text="chris-collins.io" title="chris-collins.io" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://chris-collins.io/atom.xml"/>
 		<outline text="Karl Gibson – Adobe Installation and Licensing" title="Karl Gibson – Adobe Installation and Licensing" description="" type="rss" version="RSS" htmlUrl="http://blogs.adobe.com/deployment" xmlUrl="http://blogs.adobe.com/oobe/author/karl-gibson/feed"/>
 		<outline text="Anthony’s Mac Labs Blog" title="Anthony’s Mac Labs Blog" description="" type="rss" version="RSS" htmlUrl="https://maclabs.jazzace.ca/" xmlUrl="https://maclabs.jazzace.ca/feed.xml"/>
