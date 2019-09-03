@@ -33,6 +33,7 @@
 		<outline text="Mac Admins Podcast" title="Mac Admins Podcast" description="" type="rss" version="RSS" htmlUrl="https://podcast.macadmins.org/" xmlUrl="https://podcast.macadmins.org/feed"/>
 		<outline text="SimpleMDM" title="SimpleMDM" description="" type="rss" version="RSS" htmlUrl="https://simplemdm.com/" xmlUrl="https://simplemdm.com/feed/"/>
 		<outline text="Krypted.com - Charles Edge" title="Krypted.com - Charles Edge" description="" type="rss" version="RSS" htmlUrl="https://krypted.com/" xmlUrl="https://krypted.com/feed/"/>
+		<outline text="Eclectic Light Company - Howard Oakley" title="Eclectic Light Company - Howard Oakley" description="" type="rss" version="RSS" htmlUrl="https://eclecticlight.co" xmlUrl="https://eclecticlight.co/feed/"/>
 	</outline>
 	</body>
 </opml>
